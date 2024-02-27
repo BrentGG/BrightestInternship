@@ -1,3 +1,6 @@
-# BrightestStageLog
+# Brightest Internship
 
-Weekelijkse logs met vooruitgang van mijn stage bij Brightest.
+Contains documents concerning my internship at Brightest.
+
+- [Logs](./logs) contains the weekly status reports
+- [Presentations](./presentations) contains slides used during presentations
